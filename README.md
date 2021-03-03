@@ -202,5 +202,5 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
 [stars-url]: https://github.com/Lyr01/Progetto-JavaScript-Basics-di-Hamza-Khan/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: 
+[issues-url]: https://github.com/Lyr01/Progetto-JavaScript-Basics-di-Hamza-Khan/issues
 [product-screenshot]: images/screenshot.png
