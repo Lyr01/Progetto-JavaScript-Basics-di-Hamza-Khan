@@ -15,9 +15,12 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors]][contributors-url]
-[![Stargazers]][stars-url]
-[![Issues]]][issues-url]
+[![Contributors][contributors-shield]][contributors-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+
+
+
 
 
 
@@ -197,7 +200,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/Lyr01/Progetto-JavaScript-Basics-di-Hamza-Khan.svg?style=for-the-badge
 [contributors-url]: https://github.com/Lyr01/Progetto-JavaScript-Basics-di-Hamza-Khan/graphs/contributors
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
 [stars-url]: https://github.com/Lyr01/Progetto-JavaScript-Basics-di-Hamza-Khan/stargazers
