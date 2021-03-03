@@ -1,0 +1,89 @@
+.main{
+  text-align: center;
+  font-size: 100px;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, 38%);
+}
+
+
+
+.buttonPlus{
+    padding: 0;
+    border: none;
+    background: none;
+    outline: none;
+    height:100px;
+    width:100px;
+    margin: auto;
+    background-image: url("../images/Plus1.png");
+    background-size: 102%;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+}
+
+.buttonMinus{
+    padding: 0;
+    border: none;
+    background: none;
+    outline: none;
+    height:100px;
+    width:100px;
+    margin: auto;
+    background-image: url("../images/Minus1.png");
+    background-size: 101%;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+}
+
+
+.buttons{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    margin-bottom: 50px;
+  }
+
+  .btnPlus,.btnMinus{
+    height: 100px;
+    width: 100px;
+    margin: 0 30px;
+    border-radius: 50%;
+  }
+
+body{
+  background-color: tan;
+}
+
+.buttonMinus:active, .buttonPlus:active{
+  border: 5px black solid;
+}
+
+
+@media (min-width: 1281px)  {
+
+  .main{
+    text-align: center;
+    font-size: 100px;
+    height: 100%;
+  }
+
+
+  .buttons{
+      display: flex;
+      flex-flow: row wrap;
+      justify-content: center;
+      margin: auto 350px;
+  }
+
+  .buttonMinus:hover, .buttonPlus:hover{
+    opacity: 70%;
+    border: 2px black solid;
+  }
+
+  .buttonMinus:active, .buttonPlus:active{
+    border: 5px black solid;
+  }
+
+}
