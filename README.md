@@ -16,9 +16,6 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
 
 
 
@@ -192,10 +189,5 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[stars-url]: https://github.com/Lyr01/Progetto-JavaScript-Basics-di-Hamza-Khan/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/Lyr01/Progetto-JavaScript-Basics-di-Hamza-Khan/issues
 [product-screenshot]: images/screenshot.png
