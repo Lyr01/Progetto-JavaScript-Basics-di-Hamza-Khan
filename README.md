@@ -32,14 +32,14 @@
   <p align="center">
     Un semplice contatore
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Lyr01/Progetto-JavaScript-Basics-di-Hamza-Khan"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/Lyr01/Progetto-JavaScript-Basics-di-Hamza-Khan>View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/Lyr01/Progetto-JavaScript-Basics-di-Hamza-Khan/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/Lyr01/Progetto-JavaScript-Basics-di-Hamza-Khan/issues">Request Feature</a>
   </p>
 </p>
 
